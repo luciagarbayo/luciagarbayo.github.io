@@ -1,0 +1,11 @@
+title: "Lucía Garbayo Bugeda"
+description: "Mi CV + MiniBlog"
+theme: jekyll-theme-minimal
+
+nav:
+  - title: "Inicio"
+    url: "/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Mini Blog"
+    url: "/mini-blog/"
